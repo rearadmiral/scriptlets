@@ -20,4 +20,5 @@ Dropbox
 .shotwell
 .rvm
 android
+test
 .mozilla
